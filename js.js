@@ -10,4 +10,5 @@ console.log("apple" =="orange");
 console.log("Apple"!= "Samsung");
 console.log(NaN > NaN);
 console.log("Pizza" > "Burger");             
-    console.log("hellowrot");                                                                                                                                                       
+    console.log("hellowrot");
+    console.log("hi anothr commit") ;                                                                                                                                                      
