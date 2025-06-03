@@ -13,9 +13,29 @@ console.log("Pizza" > "Burger");
     console.log("hellowrot");
     console.log("hi anothr commit");                                                                
     */     
-   //Datatypes                                                                   
+   //Datatypes                                                                  
+/*   
+   
  let value = 43;
  let negativeValue = -(value);
  console.log(negativeValue);
 let bigInteger = 8765765777985798537n;  // n is used at the end of the value to define BIG INT datatype 
 console.log( typeof bigInteger);
+
+*/
+
+
+// non primitive datatypes
+
+// array
+
+const myArray = [2,3,4,5,6,6];
+console.log(typeof myArray);
+console.log(myArray);
+
+let myObj =  {
+    name:"abhishek",
+    rollNo:1809,
+}
+console.log(myObj);
+console.log(typeof myObj);
